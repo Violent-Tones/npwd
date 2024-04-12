@@ -13,7 +13,7 @@ phone/.eslintcache
 node_modules
 build
 dist
-
+!/dist
 
 .turbo
 
