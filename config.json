@@ -1,7 +1,7 @@
 {
   "PhoneAsItem": {
-    "enabled": true,
-    "exportResource": "qb-npwd",
+    "enabled": false,
+    "exportResource": "",
     "exportFunction": "HasPhone"
   },
   "customPhoneNumber": {
@@ -98,7 +98,10 @@
   },
   "defaultContacts": [],
   "disabledApps": [],
-  "apps": ["npwd_qb_mail"],
+  "apps": [
+    "npwd_qb_mail",
+    "npwd_qb_garage"
+  ],
   "voiceMessage": {
     "enabled": false,
     "authorizationHeader": "Authorization",
